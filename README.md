@@ -14,7 +14,7 @@ Libre (GPL-3.0), pour toutes les distributions.
   [Ubuntu, Mint, Debian](https://2deathadder.github.io/linwin/guides/ubuntu-mint-debian/) ·
   [SSD invisible (Intel VMD/RST)](https://2deathadder.github.io/linwin/guides/intel-vmd-rst-ssd-invisible/) ·
   [Windows dans GRUB/systemd-boot/Limine](https://2deathadder.github.io/linwin/guides/ajouter-windows-grub-systemd-boot-limine/)
-- ⬇️ [Télécharger la v1](https://github.com/2Deathadder/linwin/releases/tag/v1)
+- ⬇️ [Télécharger la dernière version](https://github.com/2Deathadder/linwin/releases/latest)
 
 > **English** — [linwin](https://github.com/2Deathadder/linwin) installs Windows 10 as a dual-boot from Linux
 > without a USB drive: unattended setup, drivers included, GRUB/systemd-boot/Limine support, any distribution.
